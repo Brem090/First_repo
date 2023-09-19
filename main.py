@@ -1,3 +1,4 @@
-print("Hello World!")
+x = 2
+y = x + 10
 
-print ("Hello Git")
+print(y)
